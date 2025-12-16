@@ -77,8 +77,8 @@
       "id": 2,
       "properties": {
         "name": "Teste",
-        "totalCasos": 24,
-        "masculino": 24,
+        "totalCasos": 25,
+        "masculino": 25,
         "feminino": 0,
         "populacao": 13,
         "local": "Catanduva SP",
