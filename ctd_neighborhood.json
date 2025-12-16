@@ -76,11 +76,11 @@
       "type": "Feature",
       "id": 2,
       "properties": {
-        "name": "Centro",
-        "totalCasos": 1,
-        "masculino": 1,
+        "name": "Teste",
+        "totalCasos": 15,
+        "masculino": 15,
         "feminino": 0,
-        "populacao": 6076,
+        "populacao": 15,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.13627852807047,
