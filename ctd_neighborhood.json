@@ -77,10 +77,10 @@
       "id": 2,
       "properties": {
         "name": "Teste",
-        "totalCasos": 25,
-        "masculino": 25,
+        "totalCasos": 23,
+        "masculino": 23,
         "feminino": 0,
-        "populacao": 13,
+        "populacao": 23,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.13627852807047,
