@@ -77,7 +77,7 @@
       "id": 2,
       "properties": {
         "name": "Teste",
-        "totalCasos": 27,
+        "totalCasos": 28,
         "masculino": 27,
         "feminino": 0,
         "populacao": 23,
@@ -908,8 +908,8 @@
       "type": "Feature",
       "id": 6,
       "properties": {
-        "name": "Jardim Vertoni",
-        "totalCasos": 0,
+        "name": "Jardim Vertoni Teste",
+        "totalCasos": 6000,
         "masculino": 0,
         "feminino": 0,
         "populacao": 6173,
