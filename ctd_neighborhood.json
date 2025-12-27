@@ -594,10 +594,10 @@
       "id": 5,
       "properties": {
         "name": "Jardim Eldorado",
-        "totalCasos": 1,
+        "totalCasos": 2,
         "masculino": 1,
         "feminino": 0,
-        "populacao": 0,
+        "populacao": 2,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.148353956891718,
