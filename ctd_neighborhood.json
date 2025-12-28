@@ -458,11 +458,11 @@
       "type": "Feature",
       "id": 4,
       "properties": {
-        "name": "Vila Paulista",
-        "totalCasos": 1,
+        "name": "Centro",
+        "totalCasos": 3,
         "masculino": 1,
         "feminino": 0,
-        "populacao": 0,
+        "populacao": 3,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.128016276879485,
@@ -1003,10 +1003,10 @@
       "id": 8,
       "properties": {
         "name": "Parque Res. Flamingo",
-        "totalCasos": 0,
+        "totalCasos": 5,
         "masculino": 0,
         "feminino": 0,
-        "populacao": 5734,
+        "populacao": 5,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.12615832783727,
