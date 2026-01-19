@@ -6,10 +6,10 @@
       "id": 1,
       "properties": {
         "name": "Vila Rodrigues",
-        "totalCasos": 0,
-        "masculino": 0,
+        "totalCasos": 5,
+        "masculino": 5,
         "feminino": 0,
-        "populacao": 0,
+        "populacao": 5,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.134875063295922,
