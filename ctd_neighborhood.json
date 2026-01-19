@@ -459,10 +459,10 @@
       "id": 4,
       "properties": {
         "name": "Centro",
-        "totalCasos": 4,
-        "masculino": 1,
+        "totalCasos": 10,
+        "masculino": 10,
         "feminino": 0,
-        "populacao": 4,
+        "populacao": 10,
         "local": "Catanduva SP",
         "coords": {
           "latitude": -21.128016276879485,
